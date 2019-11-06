@@ -6,11 +6,11 @@
 <img src="https://github.com/rkirszba/Lem_in/blob/master/media/Demo2.gif">
 
 ### Goal
-The program has to find the quickest way to get n ants across the farm
+The program has to find the quickest way to get n ants across the ants farm
 
 ### Rules
 
-The program receives the data describing an ant farm from the standard input the following format
+The program receives the data describing an ant farm from the standard input with the following format
 
 ```
 number_of_ants
@@ -47,8 +47,8 @@ end-6
 2-end
 3-start
 ```
-
 <img src="https://github.com/rkirszba/Lem_in/blob/master/media/Demo4.gif">
+
 ```
 4
 3 2 2
