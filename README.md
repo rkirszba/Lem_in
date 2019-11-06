@@ -47,7 +47,7 @@ end-6
 2-end
 3-start
 ```
-<img src="https://github.com/rkirszba/Lem_in/blob/master/media/Demo4.gif">
+<img src="https://github.com/rkirszba/Lem_in/blob/master/media/Demo3.gif">
 
 ```
 4
@@ -71,7 +71,7 @@ end-6
 2-end
 3-start
 ```
-<img src="https://github.com/rkirszba/Lem_in/blob/master/media/Demo3.gif">
+<img src="https://github.com/rkirszba/Lem_in/blob/master/media/Demo4.gif">
 
 ## Solution
 We used an implementation of Edmonds-Karp maximum flow algorithm : https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm
