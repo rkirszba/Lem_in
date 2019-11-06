@@ -94,5 +94,5 @@ Clone the repository and launch the ```make``` command
 
 ## Authors
 
-[Romain Kirszbaum](https://github.com/rkirszba)
+[Romain Kirszbaum](https://github.com/rkirszba) 
 [Corentin Cépré](https://github.com/ccepre)
