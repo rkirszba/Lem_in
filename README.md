@@ -3,7 +3,7 @@
 
 ## Description
 
-<img src="https://github.com/rkirszba/Lem_in/blob/master/media/Demo1.gif">
+<img src="https://github.com/rkirszba/Lem_in/blob/master/media/Demo2.gif">
 
 ### Goal
 The program has to find the quickest way to get n ants across the farm
@@ -65,7 +65,7 @@ end-6
 <img src="https://github.com/rkirszba/Lem_in/blob/master/media/Demo3.gif">
 
 ## Solution
-We use an implementation of Edmonds-Karp maximum flow algorithm : https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm
+We used an implementation of Edmonds-Karp maximum flow algorithm : https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm
 
 ## Installation
 
@@ -81,4 +81,4 @@ Clone the repository and launch the ```make``` command
 
 ./lem-in < [map_path] | ./visu
 
-<img src="https://github.com/rkirszba/Lem_in/blob/master/media/Demo2.gif">
+<img src="https://github.com/rkirszba/Lem_in/blob/master/media/Demo1.gif">
