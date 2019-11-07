@@ -26,7 +26,8 @@ The output of the program follows the following template :
 where x, z, r represents the ants’ numbers (going from 1 to number_of_ants) and y, w, o represents the rooms’ names
 
 #### Map examples
-```2
+```
+2
 3 2 2
 ##start
 start 4 0
